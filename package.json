@@ -1,0 +1,24 @@
+{
+  "name": "hzued-chat-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idreamshen/hzued-chat-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idreamshen/hzued-chat-server/issues"
+  },
+  "homepage": "https://github.com/idreamshen/hzued-chat-server",
+  "dependencies": {
+    "co": "^4.5.4",
+    "mongoose": "^4.0.3",
+    "socket.io": "^1.3.5"
+  }
+}
